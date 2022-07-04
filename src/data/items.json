@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Light novel",
+    "price": 199999.5,
+    "imgUrl": "/images/lightnovel.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Castle in the Sky",
+    "price": 999990999.991,
+    "imgUrl": "/images/laputa.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Figure nendoroid ",
+    "price": 2049059.819,
+    "imgUrl": "/images/figure.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000000.912,
+    "imgUrl": "/images/car.jpg"
+  }
+]
